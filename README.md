@@ -33,7 +33,7 @@ Assign the **Right** mouse button to pan/rotate/zoom.
 Assign the **Middle** mouse button to 3Dcursor/whatever.
 
 These are the 3 types of actions already bound to the 3 mouse buttons 
-in blender but moved to different button so it fits the above rules. 
+in blender but moved to different buttons to fits the above 3 rules. 
 Note that sometimes blender follows the above convention by default so 
 no change is necessary. This is an attempt to improve mouse button 
 consistency and make a single/double button mouse or trackpad more 
