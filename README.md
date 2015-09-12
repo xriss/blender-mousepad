@@ -26,11 +26,11 @@ next time you restart Blender.
 
 This keymap tries to do the following.
 
-Assign the Left mouse button to select/drag/move.
+Assign the **Left** mouse button to select/drag/move.
 
-Assign the Right mouse button to pan/rotate/zoom.
+Assign the **Right** mouse button to pan/rotate/zoom.
 
-Assign the Middle mouse button to 3D cursor/whatever.
+Assign the **Middle** mouse button to 3D cursor/whatever.
 
 These are the 3 types of actions already bound to the 3 mouse buttons 
 in blender but maybe moved to different button so it fits the above 
