@@ -46,7 +46,7 @@ button at the bottom left of the page to set it as the default
 next time you start Blender.
 
 
-# For older versons of Blender before the big change in 2.8
+# For older versons of Blender
 
 To install download 
 https://github.com/xriss/blender-mousepad/raw/master/blender-mousepad.py 
