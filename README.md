@@ -35,7 +35,7 @@ Start up Blender.
 
 Select **Edit/Preferences...** from the menu.
 
-Click on the **Keymap** tab at the left of the references window.
+Click on the **Keymap** tab at the left of the preferences window.
 
 Click on the **Import...** button at the top of the page.
 
@@ -45,7 +45,7 @@ Now you can either try the new keymap or click the **Save Preferences**
 button at the bottom left of the page to set it as the default 
 next time you start Blender.
 
-In 2.8 all we need to do is swap the middle and the right mouse button bindngs. So that is all this keymap does.
+In 2.8 all we need to do is swap the middle and the right mouse button. So that is all this keymap does.
 
 # For older versons of Blender
 
