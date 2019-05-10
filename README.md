@@ -45,6 +45,7 @@ Now you can either try the new keymap or click the **Save Preferences**
 button at the bottom left of the page to set it as the default 
 next time you start Blender.
 
+In 2.8 all we need to do is swap the middle and the right mouse button bindngs. So that is all this keymap does.
 
 # For older versons of Blender
 
