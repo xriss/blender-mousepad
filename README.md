@@ -3,27 +3,6 @@
 A keymap to reduce blenders reliance on the middle mouse button so it 
 can be used with a mousepad or 2 button mouse.
 
-To install download 
-https://github.com/xriss/blender-mousepad/raw/master/blender-mousepad.py 
-from this repo and import into blender like so.
-
-Start up Blender.
-
-Select **User Preferences...** from the menu.
-
-Click on the **Input** tab at the top of the page.
-
-Click on the **Import Key Configuration...** button at the bottom of 
-the page.
-
-Select the blender-mousepad.py file and import it.
-
-Now you can either try the new keymap or click the **Save User 
-Settings** button at the bottom of the page to set it as the default 
-next time you restart Blender.
-
-#Mapping
-
 This keymap tries to do the following.
 
 Assign the **Left** mouse button to select/drag/move.
@@ -45,3 +24,45 @@ breaking something. I expect there to be bugs especially in modes that
 I personally do not make extensive use of so if you spot any issues 
 please let me know so I can iron them out.
 
+
+# For Blender 2.8
+
+To install download 
+https://github.com/xriss/blender-mousepad/raw/master/blender-mousepad-28.py 
+from this repo and import into blender like so.
+
+Start up Blender.
+
+Select **Edit/Preferences...** from the menu.
+
+Click on the **Keymap** tab at the left of the references window.
+
+Click on the **Import...** button at the top of the page.
+
+Select the blender-mousepad-28.py file and import it.
+
+Now you can either try the new keymap or click the **Save Preferences**
+button at the bottom left of the page to set it as the default 
+next time you start Blender.
+
+
+# For older versons of Blender before the big change in 2.8
+
+To install download 
+https://github.com/xriss/blender-mousepad/raw/master/blender-mousepad.py 
+from this repo and import into blender like so.
+
+Start up Blender.
+
+Select **User Preferences...** from the menu.
+
+Click on the **Input** tab at the top of the page.
+
+Click on the **Import Key Configuration...** button at the bottom of 
+the page.
+
+Select the blender-mousepad.py file and import it.
+
+Now you can either try the new keymap or click the **Save User 
+Settings** button at the bottom of the page to set it as the default 
+next time you restart Blender.
