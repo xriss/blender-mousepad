@@ -18,7 +18,7 @@ change is necessary. This is an attempt to improve mouse button
 consistency and make a single/double button mouse or trackpad more 
 serviceable.
 
-Blender 2.8 has got a *lot* better, so all we need to do is swap the middle
+Blender 2.8 has got a **lot** better, so all we need to do is swap the middle
 and the right mouse button.
 
 
