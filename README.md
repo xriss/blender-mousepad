@@ -18,11 +18,8 @@ change is necessary. This is an attempt to improve mouse button
 consistency and make a single/double button mouse or trackpad more 
 serviceable.
 
-Although this sounds straightforward it is however rather hard to get 
-right due to Blenders complexity and the possibility of accidentally 
-breaking something. I expect there to be bugs especially in modes that 
-I personally do not make extensive use of so if you spot any issues 
-please let me know so I can iron them out.
+Blender 2.8 has got a *lot* better, so all we need to do is swap the middle
+and the right mouse button.
 
 
 # For Blender 2.8+
@@ -44,6 +41,3 @@ Select the blender-mousepad.py file and import it.
 Now you can either try the new keymap or click the **Save Preferences**
 button at the bottom left of the page to set it as the default 
 next time you start Blender.
-
-Blender 2.8 has got a lot better, so all we need to do is swap the middle and the right mouse button.
-
