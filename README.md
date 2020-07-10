@@ -25,10 +25,10 @@ I personally do not make extensive use of so if you spot any issues
 please let me know so I can iron them out.
 
 
-# For Blender 2.8
+# For Blender 2.8+
 
 To install download 
-https://github.com/xriss/blender-mousepad/raw/master/blender-mousepad-28.py 
+https://github.com/xriss/blender-mousepad/raw/master/blender-mousepad.py 
 from this repo and import into blender like so.
 
 Start up Blender.
@@ -39,31 +39,11 @@ Click on the **Keymap** tab at the left of the preferences window.
 
 Click on the **Import...** button at the top of the page.
 
-Select the blender-mousepad-28.py file and import it.
+Select the blender-mousepad.py file and import it.
 
 Now you can either try the new keymap or click the **Save Preferences**
 button at the bottom left of the page to set it as the default 
 next time you start Blender.
 
-In 2.8 all we need to do is swap the middle and the right mouse button. So that is all this keymap does.
+Blender 2.8 has got a lot better, so all we need to do is swap the middle and the right mouse button.
 
-# For older versons of Blender
-
-To install download 
-https://github.com/xriss/blender-mousepad/raw/master/blender-mousepad.py 
-from this repo and import into blender like so.
-
-Start up Blender.
-
-Select **User Preferences...** from the menu.
-
-Click on the **Input** tab at the top of the page.
-
-Click on the **Import Key Configuration...** button at the bottom of 
-the page.
-
-Select the blender-mousepad.py file and import it.
-
-Now you can either try the new keymap or click the **Save User 
-Settings** button at the bottom of the page to set it as the default 
-next time you restart Blender.
