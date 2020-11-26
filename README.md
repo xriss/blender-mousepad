@@ -22,7 +22,7 @@ Blender 2.8 has got a **lot** better, so all we need to do is swap the middle
 and the right mouse button.
 
 
-# For Blender 2.90
+# For Blender 2.91
 
 To install download 
 https://github.com/xriss/blender-mousepad/raw/master/blender-mousepad.py 
