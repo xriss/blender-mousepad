@@ -21,6 +21,10 @@ serviceable.
 Blender 2.8 has got a **lot** better, so all we need to do is swap the middle
 and the right mouse button.
 
+Now it looks like blender is partially doing this so sometimes we are making it 
+worse. Which means we need to perform some special hacks, which we do by 
+appending some python in the bash script to rejiggle some things.
+
 
 # For Blender 2.91
 

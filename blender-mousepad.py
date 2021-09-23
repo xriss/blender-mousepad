@@ -12399,6 +12399,22 @@ keyconfig_data = \
  ]
 
 
+
+for maps in keyconfig_data:
+	if maps[0]=="Transform Modal Map":
+		for map in maps:
+			if ( type(map) is dict ) and ( "items" in map ) :
+				for item in map.get("items"):
+					if   item[1].get("type")=="MIDDLEMOUSE" :
+						item[1]["type"]="RIGHTMOUSE"
+					elif item[1].get("type")=="RIGHTMOUSE" :
+						item[1]["type"]="MIDDLEMOUSE"
+#					print(item)
+
+
+
+
+
 if __name__ == "__main__":
     # Only add keywords that are supported.
     from bpy.app import version as blender_version
@@ -12412,3 +12428,4 @@ if __name__ == "__main__":
         keyconfig_data,
         **keywords,
     )
+
