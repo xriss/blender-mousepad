@@ -1,6 +1,6 @@
 cd `dirname $0`
 
-cat blender-reset.py | sed 's/RIGHTMOUSE/XXXMOUSE/g' | sed 's/MIDDLEMOUSE/RIGHTMOUSE/g' | sed 's/XXXMOUSE/MIDDLEMOUSE/g' > blender-mousepad.py
+cat blender-reset.py | sed "s/'RIGHTMOUSE'/'XXXMOUSE'/g" | sed "s/'MIDDLEMOUSE'/'RIGHTMOUSE'/g" | sed "s/'XXXMOUSE'/'MIDDLEMOUSE'/g" > blender-mousepad.py
 
 
 csplit blender-mousepad.py '/if __name__/'
